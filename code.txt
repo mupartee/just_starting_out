@@ -1,11 +1,21 @@
+Recipes
 
-Recipe:
-add flour
-add milk and water
-
-
-soup:
+Soup:
 add broth
 boil
 add veggies
 cook
+
+Cake:
+get ingredients
+add milk
+mix
+bake for an hour
+serve
+
+
+Bread:
+
+
+Muffins:
+
