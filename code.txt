@@ -1,6 +1,7 @@
 
 Recipe:
-add milk
+add flour
+add milk and water
 
 
 soup:
