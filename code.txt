@@ -1,3 +1,5 @@
 
 Recipe:
-add milk
+
+add sugar
+then add milk
