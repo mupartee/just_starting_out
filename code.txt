@@ -1,3 +1,10 @@
+Recipes
+
+Soup:
+add broth
+boil
+add veggies
+cook
 
 Cake:
 get ingredients
@@ -11,3 +18,4 @@ Bread:
 
 
 Muffins:
+
